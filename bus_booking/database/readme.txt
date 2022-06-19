@@ -1,4 +1,4 @@
-Free Download Source Code "Bus Booking Management System"
+Free Download Source Code "TUT Booking Management System"
 
 FIRST Download
 
@@ -28,6 +28,3 @@ FIRST Download
 Admin
 user: admin
 pass: admin123
-
-****** https://www.campcodes.com/ ******
-Subcribe my Youtube Channel **** SerBermz ****
